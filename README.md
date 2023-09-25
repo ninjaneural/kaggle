@@ -108,3 +108,8 @@ https://www.kaggle.com/code/ninjaneural/webui-xl
 </details>
 
 ---
+
+# ComfyUI
+
+https://www.kaggle.com/code/ninjaneural/comfyui
+
